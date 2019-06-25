@@ -1,0 +1,6 @@
+framework module Pods_TestSOAP {
+  umbrella header "Pods-TestSOAP-umbrella.h"
+
+  export *
+  module * { export * }
+}
